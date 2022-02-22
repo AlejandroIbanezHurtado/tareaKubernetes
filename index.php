@@ -1,3 +1,3 @@
 <?php
-	echo "Hola buenos dias";
+	echo "Hola buenos noches";
 ?>
